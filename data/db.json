@@ -1,0 +1,107 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "Fruits",
+      "description": "These are my favorite fruits",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "Funny Names",
+      "back": "bojangles",
+      "deckId": 3,
+      "id": 8
+    },
+    {
+      "front": "Fruits",
+      "back": "Mango, Kiwi, banana",
+      "deckId": 3,
+      "id": 9
+    },
+    {
+      "front": "Fruit",
+      "back": "Kiwi",
+      "deckId": 3,
+      "id": 10
+    },
+    {
+      "front": "Vegetable",
+      "back": "corn",
+      "deckId": null,
+      "id": 11
+    },
+    {
+      "front": "Fruit",
+      "back": "Apple",
+      "deckId": 4,
+      "id": 12
+    },
+    {
+      "front": "Fruit",
+      "back": "Apple",
+      "deckId": 4,
+      "id": 13
+    },
+    {
+      "front": "Fruit",
+      "back": "Apple",
+      "deckId": 4,
+      "id": 14
+    },
+    {
+      "front": "Fruit",
+      "back": "Apple",
+      "deckId": 4,
+      "id": 15
+    },
+    {
+      "id": 16,
+      "front": "Small Fruit",
+      "back": "apple, banana, orange",
+      "deckId": 2
+    },
+    {
+      "id": 17,
+      "front": "Big Fruit",
+      "back": "Mango, Pineapple, Canalope",
+      "deckId": 2
+    },
+    {
+      "id": 18,
+      "front": "Favorite Fruit",
+      "back": "Mango, Pineapple, Golden Kiwi",
+      "deckId": 2
+    }
+  ]
+}
